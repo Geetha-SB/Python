@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
 
-
-@author: saura
-"""
 import requests
 from bs4 import BeautifulSoup
 import pprint    # pretty print - used to print with appropriate spacing, for readability
